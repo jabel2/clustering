@@ -1,0 +1,7 @@
+typer
+pandas
+numpy
+scikit-learn
+hdbscan
+ollama
+rich
